@@ -1,0 +1,46 @@
+.tbl-cab {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+.tbl-corpo {
+  font-size: 24px;
+  font-weight: bold;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: #10AC84;
+  color: #fff;
+  text-align: center;
+  font-family: sans-serif;
+}
+.tbl-corpo__linha {
+  padding-left: 40px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+.tbl-corpo__mensagem {
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 0;
+}
+.tbl-corpo__tbl {
+  background-color: #F8F2F2;
+  padding: 16px 40px;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+.tbl-corpo__links {
+  padding-top: 128px;
+}
+.tbl-corpo table {
+  max-width: 520px;
+  width: 100%;
+}
+table {
+  max-width: 600px;
+  width: 100%;
+}
+#obs-email {
+  font-size: 12px;
+  padding-top: 8px;
+}
+/*# sourceMappingURL=index.css.map */
